@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Bias</string>
+
+    <string name="submit">Submit</string>
+    <string name="hintUrl">(Copy and paste your URL here)</string>
+    <string name="hintArticle">(Click submit to show article)</string>
+    <string name="hintBiasScore">(Click submit to score article)</string>
+</resources>
